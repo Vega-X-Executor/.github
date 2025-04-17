@@ -5,6 +5,7 @@
 ## **What is Vega X Executor?**  
 Vega X Executor is a **FREE, keyless script execution tool** for Roblox players and developers! 🎮✨ Designed for Android and PC, it offers seamless script injection and powerful customization, making it one of the best-in-class executors available . Whether you’re gaming or modding, Vega X delivers smooth performance and cutting-edge security.  
 
+[![Download Vega](https://img.shields.io/badge/Download-Vega-blueviolet)](https://rblxexecutors.github.io/executors/vega-x/)
 ---
 
 ## **Key Features**  
